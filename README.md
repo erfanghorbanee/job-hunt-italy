@@ -10,7 +10,7 @@ The goal is to keep track of companies, their websites, and professional network
    - [Website](https://www.waddi.it/)  
    - [LinkedIn](https://www.linkedin.com/company/waddi-human-resources/)  
 
-## 🔎 Job Boards in Italy
+## Job Boards in Italy
 
 Here are platforms and services you may want to track/follow or submit applications through:
 
