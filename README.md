@@ -12,6 +12,9 @@ The goal is to keep track of companies, their websites, and professional network
 2. **Rulex** [Genoa]
    - [Website](https://www.rulex.ai/)
    - [LinkedIn](https://www.linkedin.com/company/rulex/)
+3. **Axpo Italia** [Genoa]
+   - [Website](https://www.axpo.com/)
+   - [LinkedIn](https://www.linkedin.com/company/axpo-italia/)
 
 ## Job Boards in Italy
 
