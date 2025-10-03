@@ -4,12 +4,12 @@ This repository documents my journey of searching for job opportunities in Italy
 
 The goal is to keep track of companies, their websites, and professional networking links, while sharing insights with others who may find it useful.  
 
-## Companies in Genoa
+## Companies
 
-1. **Waddi Human Resources**  
+1. **Waddi Human Resources** [Genoa]
    - [Website](https://www.waddi.it/)
    - [LinkedIn](https://www.linkedin.com/company/waddi-human-resources/)
-2. **Rulex**
+2. **Rulex** [Genoa]
    - [Website](https://www.rulex.ai/)
    - [LinkedIn](https://www.linkedin.com/company/rulex/)
 
