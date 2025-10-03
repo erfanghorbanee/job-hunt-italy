@@ -7,8 +7,11 @@ The goal is to keep track of companies, their websites, and professional network
 ## Companies in Genoa
 
 1. **Waddi Human Resources**  
-   - [Website](https://www.waddi.it/)  
-   - [LinkedIn](https://www.linkedin.com/company/waddi-human-resources/)  
+   - [Website](https://www.waddi.it/)
+   - [LinkedIn](https://www.linkedin.com/company/waddi-human-resources/)
+2. **Rulex**
+   - [Website](https://www.rulex.ai/)
+   - [LinkedIn](https://www.linkedin.com/company/rulex/)
 
 ## Job Boards in Italy
 
