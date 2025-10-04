@@ -15,6 +15,9 @@ The goal is to keep track of companies, their websites, and professional network
 3. **Axpo Italia** [Genoa]
    - [Website](https://www.axpo.com/)
    - [LinkedIn](https://www.linkedin.com/company/axpo-italia/)
+4. **Netalia** [Genoa]
+   - [Website](https://www.netalia.it/)
+   - [LinkedIn](https://www.linkedin.com/company/netalia/)
 
 ## Job Boards in Italy
 
