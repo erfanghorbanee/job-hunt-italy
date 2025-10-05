@@ -31,6 +31,12 @@ The goal is to keep track of companies, their websites, and professional network
     "location": ["Genoa"],
     "website": "https://www.netalia.it/",
     "linkedin": "https://www.linkedin.com/company/netalia/"
+  },
+  {
+    "name": "sedApta Group",
+    "location": ["Genoa"],
+    "website": "https://www.sedapta.com/",
+    "linkedin": "https://www.linkedin.com/company/sedapta-group/"
   }
 ]
 ```
