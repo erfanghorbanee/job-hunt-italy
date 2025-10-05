@@ -6,18 +6,34 @@ The goal is to keep track of companies, their websites, and professional network
 
 ## Companies
 
-1. **Waddi Human Resources** [Genoa]
-   - [Website](https://www.waddi.it/)
-   - [LinkedIn](https://www.linkedin.com/company/waddi-human-resources/)
-2. **Rulex** [Genoa]
-   - [Website](https://www.rulex.ai/)
-   - [LinkedIn](https://www.linkedin.com/company/rulex/)
-3. **Axpo Italia** [Genoa]
-   - [Website](https://www.axpo.com/)
-   - [LinkedIn](https://www.linkedin.com/company/axpo-italia/)
-4. **Netalia** [Genoa]
-   - [Website](https://www.netalia.it/)
-   - [LinkedIn](https://www.linkedin.com/company/netalia/)
+```JSON
+[
+  {
+    "name": "Waddi Human Resources",
+    "location": ["Genoa"],
+    "website": "https://www.waddi.it/",
+    "linkedin": "https://www.linkedin.com/company/waddi-human-resources/"
+  },
+  {
+    "name": "Rulex",
+    "location": ["Genoa"],
+    "website": "https://www.rulex.ai/",
+    "linkedin": "https://www.linkedin.com/company/rulex/"
+  },
+  {
+    "name": "Axpo Italia",
+    "location": ["Genoa"],
+    "website": "https://www.axpo.com/",
+    "linkedin": "https://www.linkedin.com/company/axpo-italia/"
+  },
+  {
+    "name": "Netalia",
+    "location": ["Genoa"],
+    "website": "https://www.netalia.it/",
+    "linkedin": "https://www.linkedin.com/company/netalia/"
+  }
+]
+```
 
 ## Job Boards in Italy
 
