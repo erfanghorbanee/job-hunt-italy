@@ -37,7 +37,14 @@ The goal is to keep track of companies, their websites, and professional network
     "location": ["Genoa"],
     "website": "https://www.sedapta.com/",
     "linkedin": "https://www.linkedin.com/company/sedapta-group/"
-  }
+  },
+  {
+  "name": "Adecco",
+  "location": ["https://www.adecco.it/offerte-per-regione/"],
+  "website": "https://www.adecco.it/",
+  "linkedin": "https://www.linkedin.com/company/adecco/"
+  },
+
 ]
 ```
 
