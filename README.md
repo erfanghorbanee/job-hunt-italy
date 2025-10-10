@@ -44,7 +44,12 @@ The goal is to keep track of companies, their websites, and professional network
   "website": "https://www.adecco.it/",
   "linkedin": "https://www.linkedin.com/company/adecco/"
   },
-
+  {
+  "name": "aizoOn Technology Consulting",
+  "location": ["Torino", "Genoa", "Roma"],
+  "website": "https://www.aizoongroup.com/",
+  "linkedin": "https://www.linkedin.com/company/aizoon-technology-consulting/"
+  }
 ]
 ```
 
