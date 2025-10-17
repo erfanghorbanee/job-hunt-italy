@@ -49,7 +49,13 @@ The goal is to keep track of companies, their websites, and professional network
   "location": ["Torino", "Genoa", "Roma"],
   "website": "https://www.aizoongroup.com/",
   "linkedin": "https://www.linkedin.com/company/aizoon-technology-consulting/"
-  }
+  },
+  {
+  "name": "Orienta Agenzia per il Lavoro",
+  "location": ["Milano", "Torino", "Roma", "Napoli", "Bari", "Brescia"],
+  "website": "http://orienta.net/",
+  "linkedin": "https://www.linkedin.com/company/orienta-agenzia-per-il-lavoro/"
+  },
 ]
 ```
 
