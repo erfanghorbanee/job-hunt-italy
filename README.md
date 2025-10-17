@@ -52,7 +52,7 @@ The goal is to keep track of companies, their websites, and professional network
   },
   {
   "name": "Orienta Agenzia per il Lavoro",
-  "location": ["Milano", "Torino", "Roma", "Napoli", "Bari", "Brescia"],
+  "location": ["Milano", "Genova", "Torino", "Roma", "Napoli", "Bari", "Brescia"],
   "website": "http://orienta.net/",
   "linkedin": "https://www.linkedin.com/company/orienta-agenzia-per-il-lavoro/"
   },
