@@ -56,6 +56,12 @@ The goal is to keep track of companies, their websites, and professional network
   "website": "http://orienta.net/",
   "linkedin": "https://www.linkedin.com/company/orienta-agenzia-per-il-lavoro/"
   },
+  {
+  "name": "Amaris Consulting",
+  "location": ["Milano", "Torino", "Roma", "Bologna"],
+  "website": "https://www.amaris.com/",
+  "linkedin": "https://www.linkedin.com/company/amarisconsulting/"
+  }
 ]
 ```
 
